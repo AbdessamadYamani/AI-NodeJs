@@ -1,0 +1,32 @@
+M138446430
+U203710
+---------------------------
+
+Morocco’s vision for digital transformation (transition numérique) emphasizes the need for innovative educational tools to build a skilled workforce for the future. Traditional teaching methods, while effective in theory, often lack the interactivity and engagement required to foster practical understanding across diverse fields, such as software engineering, project management, or even healthcare. Serious games, combining gamification with education, offer a powerful solution by immersing learners in interactive, real-world scenarios. However, the challenge lies in designing adaptive, scalable, and personalized games that can cater to individual learners’ needs and align with Morocco’s educational goals.
+
+(i) State of the Art:
+Serious games have gained traction in fields such as engineering, business, and medical training, where they simulate real-world tasks and challenges. These games enhance engagement and knowledge retention by allowing learners to apply concepts in a controlled environment. Despite their potential, most serious games are static, offering the same scenarios and feedback to all users. This limits their effectiveness in addressing learners’ diverse skills and experiences.
+
+AI has emerged as a transformative force in education, enabling adaptive learning and dynamic content generation. AI-powered serious games can analyze learners’ progress, personalize scenarios, and simulate realistic challenges using intelligent agents. Globally, these advancements are reshaping education, yet their integration in Morocco’s context—where scalable and inclusive solutions are essential—remains underexplored.
+
+(ii) Original Contribution:
+This PhD research aims to develop AI-assisted serious games that provide adaptive, personalized learning experiences across various domains. By integrating AI technologies, the proposed solution will address the limitations of static serious games and contribute to Morocco’s vision for digital innovation. Key contributions include:
+
+1-Adaptive and Personalized Learning:
+The system will leverage AI to assess learners’ performance in real-time and adjust the game’s difficulty, content, and feedback dynamically. This ensures a tailored experience for each user, fostering better engagement and learning outcomes.
+
+2-Cross-Domain Applications:
+The game framework will support multiple fields, such as engineering, healthcare, or management, by offering customizable scenarios. AI-driven simulations will replicate real-world challenges, such as decision-making under pressure or collaborative problem-solving.
+
+3-Automated Feedback and Assessment:
+AI algorithms will provide instant feedback on learners’ performance, highlighting strengths and areas for improvement. This enables iterative learning and helps learners track their progress effectively.
+
+4-Scalability and Accessibility:
+The game will be designed to adapt to different educational contexts, from schools and universities to corporate training programs. Its modular architecture ensures scalability, making it accessible to diverse audiences across Morocco.
+
+Conclusion:
+By combining AI with serious games, this research will create a versatile educational tool that aligns with Morocco’s digital transformation goals. The project will enable learners to acquire practical skills in an interactive, engaging manner, across various domains. Beyond its impact on education, this innovation will contribute to Morocco’s broader efforts to build a digitally empowered society, fostering creativity, critical thinking, and lifelong learning.
+
+----------------------------------------------------------
+title : 
+Development of AI-assisted serious games for learning software engineering.
